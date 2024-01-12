@@ -1,0 +1,6 @@
+C:\Users\Luiz\Desktop\book-offers\bookOffers\bin\Debug\bookOffers.exe
+C:\Users\Luiz\Desktop\book-offers\bookOffers\bin\Debug\bookOffers.pdb
+C:\Users\Luiz\Desktop\book-offers\bookOffers\obj\Debug\bookOffers.csproj.AssemblyReference.cache
+C:\Users\Luiz\Desktop\book-offers\bookOffers\obj\Debug\bookOffers.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\book-offers\bookOffers\obj\Debug\bookOffers.exe
+C:\Users\Luiz\Desktop\book-offers\bookOffers\obj\Debug\bookOffers.pdb
